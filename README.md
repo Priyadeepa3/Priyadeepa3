@@ -1,8 +1,11 @@
 # Hi, I'm Priyadharshini T 👋
 
-🚀 **Java Backend Developer** passionate about architecting scalable, secure, and high-performance backend systems. 
+🚀 **Java Backend Developer** focused on building secure and maintainable backend applications using Java, Spring Boot, MySQL, and REST APIs.
 
-With a professional background as a **System Engineer at Infosys** and experience managing complex data validation workflows, I specialize in building robust RESTful APIs, optimizing database performance, and implementing secure authentication pipelines.
+With experience as a **System Engineer at Infosys** and hands-on project development, I enjoy solving real-world problems through backend engineering, database management, authentication workflows, and API development.
+
+I actively improve my problem-solving skills through DSA practice and by building end-to-end backend projects with real deployment workflows.
+
 
 ---
 

@@ -41,6 +41,9 @@ I actively improve my problem-solving skills through DSA practice and by buildin
 A production-grade, full-stack e-commerce monolithic backend focused on high-security workflows and robust API design.
 * **Secure Authentication Pipeline:** Engineered end-to-end authentication using JWT-based login, signup, and refresh token validation to secure all application endpoints.
 * **Password Reset Engine:** Built a secure, automated password reset workflow featuring email-based tokens with strict expiration and one-time validation using SMTP, BCrypt, and MySQL.
+* **Tested REST APIs using Postman**
+* **Implemented unit testing for service-layer logic using JUnit**
+* **Validated authentication and API** response workflows
 * **Decoupled Architecture:** Developed a static frontend calling backend APIs via asynchronous `fetch()` operations with securely managed localStorage JWTs.
 * **Cloud Deployment:** Successfully deployed and managed the live backend architecture on Render and the frontend on Vercel.
 * 🔗 **Links:** [Live Project](https://depra-ecom.onrender.com/) | [GitHub Repository](https://github.com/Priyadeepa3/ecommerce-fullstack-application-depra)
